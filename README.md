@@ -1,6 +1,6 @@
 # webhook-listener
 
-A simple Node.js HTTP server that handles and logs inbound webhook requests. Useful for testing webhooks, when used in conjunction with a tool like [ngrok](https://ngrok.com).
+A simple Node.js HTTP server that as a dummy webhook client. Useful for testing webhooks, when used in conjunction with a tool like [ngrok](https://ngrok.com).
 
 ## Behavior
 
